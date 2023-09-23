@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "f088b01b88dfb5ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "c07ea6f36e4eec13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "472946df9dc7d07c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallelism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79214dffcffa569a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab01d19d14f2b6b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87a36aa1d25f1de5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14e97d469a20c637",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "139cbe22e0b42d17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f751331e27fadaf8",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70b3473bec488ec6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e23c1220bb059052",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e58fb6998ea2d867",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Parallelism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc5df194dce4ed23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Parallelism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3c9fb98253b59bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fff475298d00b9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Parallelism.md"
+              }
+            }
+          },
+          {
+            "id": "eac87819914648e1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "21d1615312aba7fa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "472946df9dc7d07c",
+  "lastOpenFiles": [
+    "Moore's Law.md",
+    "Parallelism.md",
+    "Von Neumann's Architecture.md",
+    "Architectures.md",
+    "Classic Problems.md",
+    "Performance.md",
+    "Process.md",
+    "Artificial Intelligence.md",
+    "Concurrent Programs.md",
+    "Concurrent Systems.md",
+    "Networks.md",
+    "OSI Model.md",
+    "Protocols.md",
+    "Concurrency.md",
+    "Untitled.canvas",
+    "Threads.md",
+    "Main Properties.md",
+    "Deadlocks.md",
+    "Untitled.md",
+    "Interferences.md",
+    "2023-07-10.md",
+    "HOME.md",
+    "Home.md",
+    "Interest MOC.md",
+    "Archive",
+    "References",
+    "inbox.md",
+    "Studies/2023-Autumn",
+    "Studies",
+    "Work",
+    "Inbox",
+    "Inbox"
+  ]
+}
