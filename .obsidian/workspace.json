@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Parallelism.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,8 +186,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56b7a5616627c880",
+  "active": "2bab897166926ae1",
   "lastOpenFiles": [
+    "Parallelism.md",
     "Computer Networks.md",
     "Performance.md",
     "Stop-and-Wait ARQ.md",
@@ -215,7 +212,6 @@
     "OSI Model.canvas",
     "2023-09-24.md",
     "Architectures.md",
-    "Parallelism.md",
     "Moore's Law.md",
     "Concurrent Systems.md",
     "Artificial Intelligence.md",
