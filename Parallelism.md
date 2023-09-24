@@ -3,6 +3,7 @@ tags:
   - parallelism
   - autumn2023
   - uni
+  - "#course"
 ---
 From the beginning of time, works was always split to many different people for important tasks. It's hard to imagine the pyramids or China's Great Wall construction without sharing the work to a massive number of people. That way by **sharing the workload** people could achieve a huge display of power. Of course there's many others examples of this in human history:
 
@@ -22,7 +23,7 @@ One of the main difficulties of parallelism is the strong coherence between the 
 
 [[Von Neumann's Architecture]] is a great example of a perfect link between hardware and software. This birthed the success of [[Sequential Programming]] for years to come.
 
-> But we still want more [[Performance]]!
+> But we still want more [[Performance#Performance in Parallelism|performance]]!
 
 ---
 

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"728f2e4f346c1c36","x":-340,"y":-300,"width":250,"height":60,"color":"6","type":"text","text":"HEAD"},
+		{"id":"44eee18752270c6e","x":-90,"y":-300,"width":310,"height":60,"color":"4","type":"text","text":"PAYLOAD"},
+		{"id":"00f890aae898c6cd","type":"text","text":"TRAILER","x":220,"y":-300,"width":160,"height":60,"color":"1"}
+	],
+	"edges":[]
+}

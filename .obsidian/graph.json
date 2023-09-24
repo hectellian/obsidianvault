@@ -8,30 +8,37 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:def",
+      "query": "tag:#course ",
       "color": {
         "a": 1,
-        "rgb": 5422560
+        "rgb": 14701138
       }
     },
     {
-      "query": "tag:uni",
+      "query": "tag:#def  ",
       "color": {
         "a": 1,
-        "rgb": 13574642
+        "rgb": 5431511
+      }
+    },
+    {
+      "query": "tag:#summary  ",
+      "color": {
+        "a": 1,
+        "rgb": 8438404
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.14166666666667,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 2.24375,
+  "lineSizeMultiplier": 1.14635416666667,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 13.2291666666667,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.3027980472870229,
+  "centerStrength": 0.479166666666667,
+  "repelStrength": 13.9583333333333,
+  "linkStrength": 0.489583333333333,
+  "linkDistance": 187,
+  "scale": 0.595166532458049,
   "close": true
 }
