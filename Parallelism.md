@@ -13,17 +13,20 @@ From the beginning of time, works was always split to many different people for 
 	- Multiple Calculation units activated at the same time
 	- Didn't work well because of the coordination problems as well as the materials reliability
 
-So what is parallelism in computers exactly?
-Parallelism, is the fact to have multiple [[Processors]] ([[Threads]]) **working together** on a same problem.
-We can see that 
+> [!faq] So what is parallelism in computers exactly?
+>Parallelism, is the fact to have multiple [[Processors]] ([[Threads]]) **working together** on a same problem.
+>We can see that 
 
-Programmers will be the coordinators of the entire system (all the [[Processing Element]]), By leaving most of the work to automation will only be causing more problems like [[Deadlocks]]
+Programmers will be the coordinators of the entire system (all the [[Processing Element]])
+
+> [!warning] 
+> By leaving most of the work to automation will only be causing more problems like [[Deadlocks]]
 
 One of the main difficulties of parallelism is the strong coherence between the [[Programming Model]] and the materials
 
 [[Von Neumann's Architecture]] is a great example of a perfect link between hardware and software. This birthed the success of [[Sequential Programming]] for years to come.
 
-> But we still want more [[Performance#Performance in Parallelism|performance]]!
+> [!danger] But we still want more [[Performance#Performance in Parallelism|performance]]!
 
 ---
 

@@ -20,13 +20,10 @@ The basic workflow of ARQ Protocols involves the following steps:
 4. If the packet has errors or is lost, the receiver either does nothing or sends a negative acknowledgment (NAK).
 5. Upon receiving a NAK or not receiving an ACK within a specific time frame, the sender retransmits the packet.
 
-### Common Types of ARQ Protocols
-
-Here are some commonly used types of ARQ Protocols:
-
-1. **[[Stop-and-Wait ARQ]]**
-2. **[[Go-Back-N ARQ]]**
-3. **[[Selective-Repeat ARQ]]**
+> [!info] Commonly used types of ARQ Protocols:
+> 1. **[[Stop-and-Wait ARQ]]**
+> 2. **[[Go-Back-N ARQ]]**
+> 3. **[[Selective-Repeat ARQ]]**
 #### Examples
 
 - **File Transfer**: When transferring a large file over a network, ARQ protocols ensure that each segment of the file is successfully received before the next segment is sent.

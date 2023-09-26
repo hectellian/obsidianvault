@@ -6,7 +6,6 @@
       {
         "id": "c07ea6f36e4eec13",
         "type": "tabs",
-        "dimension": 63.1578947368421,
         "children": [
           {
             "id": "56b7a5616627c880",
@@ -14,27 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallelism.md",
+                "file": "Computer Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "dd8a69905d5572ef"
           }
         ]
       },
       {
-        "id": "30d4a0da4451f433",
+        "id": "38d9f1f8fd7cf299",
         "type": "tabs",
-        "dimension": 36.84210526315789,
         "children": [
           {
-            "id": "2bab897166926ae1",
+            "id": "9f05566c3e7385fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "dd8a69905d5572ef"
           }
         ]
       }
@@ -110,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Networks.md"
+              }
             }
           },
           {
@@ -186,40 +195,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bab897166926ae1",
+  "active": "56b7a5616627c880",
   "lastOpenFiles": [
-    "Parallelism.md",
-    "Computer Networks.md",
     "Performance.md",
-    "Stop-and-Wait ARQ.md",
-    "Selective-Repeat ARQ.md",
-    "ARQ Protocols.md",
+    "Computer Networks.md",
     "Go-Back-N ARQ.md",
-    "Packets.md",
-    "Network.md",
-    "Packets.canvas",
-    "Packet.md",
+    "Selective-Repeat ARQ.md",
+    "Stop-and-Wait ARQ.md",
     "Summary.md",
+    "Process.md",
+    "Parallelism.md",
+    "Packets.md",
+    "Packets.canvas",
+    "Architectures.md",
+    "ARQ Protocols.md",
+    "Artificial Intelligence.md",
+    "Concurrent Programs.md",
+    "Concurrent Systems.md",
+    "OSI Model.canvas",
+    "OSI Model.md",
+    "Network.md",
+    "Untitled.md",
+    "Processing Element.md",
+    "Packet.md",
     "Uni/Autumn2023/Networks/Untitled Kanban.md",
     "img",
     "Uni/Autumn2023/Networks",
     "Uni",
     "Uni/Autumn2023",
-    "OSI Model.md",
     "Threads.md",
     "Von Neumann's Architecture.md",
-    "Process.md",
-    "OSI Model.canvas",
     "2023-09-24.md",
-    "Architectures.md",
     "Moore's Law.md",
-    "Concurrent Systems.md",
-    "Artificial Intelligence.md",
-    "Concurrent Programs.md",
     "Classic Problems.md",
-    "Main Properties.md",
-    "Protocols.md",
-    "Concurrency.md",
     "Archive",
     "References",
     "Studies/2023-Autumn",

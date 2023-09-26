@@ -15,11 +15,11 @@ In Selective Repeat ARQ, the sender transmits multiple [[Packets|packets]], like
 2. **Receiver**: Sends an ACK for each correctly received packet and a NAK for each erroneous or lost packet.
 3. **Sender**: Only retransmits the packets for which a NAK was received.
 
-##### Pros and Cons
+> [!success] Pros
+> Most efficient use of bandwidth among the three, as only erroneous packets are retransmitted.
 
-- **Pros**: Most efficient use of bandwidth among the three, as only erroneous packets are retransmitted.
-- **Cons**: More complex to implement due to the need to track individual packet statuses.
+> [!failure] Cons 
+> More complex to implement due to the need to track individual packet statuses.
 
-#### Example
-
-In real-time multiplayer online gaming, where each packet could represent a game event like a player's movement, Selective Repeat would ensure that only crucial missing or erroneous events are retransmitted, preserving bandwidth and reducing latency.
+> [!example]
+> In real-time multiplayer online gaming, where each packet could represent a game event like a player's movement, Selective Repeat would ensure that only crucial missing or erroneous events are retransmitted, preserving bandwidth and reducing latency.

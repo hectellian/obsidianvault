@@ -13,7 +13,3 @@ The current most powerful computer (2023) can go to
 - This machine needs a power of about 20MW to run
 
 When doing huge calculations for big simulations we need huge performances. The machines that can do those calculations are called **HPC** : High Performance Calculation
-
-#### Performance in Computer Networks
-
-#todo: mathematical/probabilities bits and errors
