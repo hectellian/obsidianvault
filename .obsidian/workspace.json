@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c07ea6f36e4eec13",
+        "id": "41fa8aa10e76c7e8",
         "type": "tabs",
         "children": [
           {
-            "id": "56b7a5616627c880",
+            "id": "3d00db5bb5de5d9a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b3e1397fde122f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -233,6 +241,7 @@
     "Studies/2023-Autumn",
     "Studies",
     "Work",
+    "Inbox",
     "Inbox"
   ]
 }
