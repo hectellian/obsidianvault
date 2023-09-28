@@ -30,8 +30,8 @@ One of the main difficulties of parallelism is the strong coherence between the 
 
 ---
 
-Then where could we find some performance?
-#### **Technologies** (physical process used to treat information)
+> [!FAQ] Then where could we find some performance?
+### **Technologies** (physical process used to treat information)
 
 We could find new **technologies** like semi-conductors or silicium used in the current electronics. 
 For a long time we've observed [[Moore's Law]] but it's starting to stagnate now. But Moore's Law was not the only exponential law observed all this time. Limited:
@@ -41,4 +41,28 @@ $$dissipated\ heat(f): P=v^2f$$
 
 
 #todo: finish law def
+
+> [!NOTE]
+> There is limits imposed by physics :
+> - The speed of light: data cannot go faster than **c**
+> - $E=mc^2$ and $E=h \cdot \mu$ (h is Planks constant, $\mu$ is the frequency)
+
+A rapidly evolving technology worth exploring is **DNA Storage**, which enables the storage of digital information on DNA strands.
+
+> [!INFO]
+> DNA Storage is about 500 Exobytes ($10^{18}$) per strand
+
+> [!FAQ]- What about the brain's performances?
+> - $10^{11}$ neurons
+> - $10^4$ synapses per neuron at 10 Hz
+> - All this for a consummation of about 100 Watt
+
+> [!FAQ] What is the more effective approach for optimal performance: utilizing multiple [[Processing Elements|PEs]] with lower computational power or employing a single [[Processing Element]] with significantly higher computational power? 
+> #todo: finish card with calculations and proof
+
+### [[Architectures]] upgrades
+
+
+
+
 
