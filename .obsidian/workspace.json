@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3064dcfd2699479a",
+            "id": "3d79cf4d79eafc1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autumn2023/2023-09-28.md",
+                "file": "2023-09-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autumn2023/2023-09-28.md",
+                "file": "2023-09-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autumn2023/2023-09-28.md",
+                "file": "2023-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autumn2023/2023-09-28.md"
+                "file": "2023-09-28.md"
               }
             }
           },
@@ -176,29 +176,29 @@
   },
   "active": "87a36aa1d25f1de5",
   "lastOpenFiles": [
+    "BachelorProject/Hardware Flaws And Their Impact On Software Security.md",
+    "2023-09-28.md",
     "BachelorProject",
     "Autumn2023",
-    "Autumn2023/2023-12-19.md",
-    "Untitled.md",
-    "Autumn2023/2023-09-28.md",
-    "Autumn2023/Parallelism.md",
-    "Autumn2023/Architectures.md",
-    "Autumn2023/Computer Networks.md",
-    "Autumn2023/Performance.md",
-    "Autumn2023/Go-Back-N ARQ.md",
-    "Autumn2023/Selective-Repeat ARQ.md",
-    "Autumn2023/Stop-and-Wait ARQ.md",
-    "Autumn2023/Summary.md",
-    "Autumn2023/Process.md",
-    "Autumn2023/Packets.md",
-    "Autumn2023/Packets.canvas",
-    "Autumn2023/ARQ Protocols.md",
-    "Autumn2023/Artificial Intelligence.md",
-    "Autumn2023/Concurrent Programs.md",
-    "Autumn2023/Concurrent Systems.md",
-    "Autumn2023/OSI Model.canvas",
-    "Autumn2023/OSI Model.md",
-    "Autumn2023/Network.md",
+    "2023-12-19.md",
+    "Parallelism.md",
+    "Architectures.md",
+    "Computer Networks.md",
+    "Performance.md",
+    "Go-Back-N ARQ.md",
+    "Selective-Repeat ARQ.md",
+    "Stop-and-Wait ARQ.md",
+    "Summary.md",
+    "Process.md",
+    "Packets.md",
+    "Packets.canvas",
+    "ARQ Protocols.md",
+    "Artificial Intelligence.md",
+    "Concurrent Programs.md",
+    "Concurrent Systems.md",
+    "OSI Model.canvas",
+    "OSI Model.md",
+    "Network.md",
     "Processing Element.md",
     "Packet.md",
     "Uni/Autumn2023/Networks/Untitled Kanban.md",
@@ -206,13 +206,12 @@
     "Uni/Autumn2023/Networks",
     "Uni",
     "Uni/Autumn2023",
-    "Autumn2023/Threads.md",
-    "Autumn2023/Von Neumann's Architecture.md",
+    "Threads.md",
+    "Von Neumann's Architecture.md",
     "2023-09-24.md",
     "Archive",
     "References",
     "Studies/2023-Autumn",
-    "Studies",
-    "Work"
+    "Studies"
   ]
 }
